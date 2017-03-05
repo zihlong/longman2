@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "scripts":{
+    "start":"node app.js"
+  }
   "dependencies": {
     "botbuilder": "^3.5.1",
     "mongodb": "^2.2.19",
